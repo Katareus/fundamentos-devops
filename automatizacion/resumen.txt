@@ -1,0 +1,8 @@
+Área	Ejemplos de automatización
+Desarrollo	Compilación de código, análisis estático
+Testing	Pruebas unitarias, de integración, de seguridad
+Integración	Pipelines de CI
+Despliegue	Pipelines de CD, despliegues blue/green
+Infraestructura	Provisionamiento con Terraform , Ansible 
+Monitorización	Alertas automáticas, dashboards
+Seguridad	Escaneo de vulnerabilidades, gestión de secretos

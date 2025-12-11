@@ -1,0 +1,5 @@
+Automatización de despliegues.
+Validación de entornos.
+Pruebas de aceptación.
+Gestión de versiones.
+Estrategias de despliegue: blue/green, canary, rolling.

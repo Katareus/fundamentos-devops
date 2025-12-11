@@ -1,0 +1,5 @@
+Detectar: errores, cuellos de botella, oportunidades.
+Analizar: causas, impacto, frecuencia.
+Actuar: aplicar correcciones, optimizar procesos.
+Validar: comprobar que la mejora funciona.
+Repetir: volver a observar y mejorar.
